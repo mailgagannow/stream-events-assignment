@@ -36,6 +36,7 @@ Run the database migrations (**Set the database connection in .env before migrat
     php artisan migrate
 
 Run the seeder for followers,subscribers,merchant sales,donations
+
     php artisan db:seed
 
 Start the local development server
